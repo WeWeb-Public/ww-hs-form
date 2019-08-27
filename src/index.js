@@ -1,4 +1,4 @@
-import wwObject from './wwObjectIframe.vue'
+import wwObject from './wwObjecthsForm.vue'
 
 const name = "__NAME__";
 const version = '__VERSION__';
