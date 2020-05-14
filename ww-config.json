@@ -1,5 +1,5 @@
 {
-	"componentPath": "./src/wwObjecthsForm.vue",
+	"componentPath": "./src/wwObjectHsForm.vue",
 	"content": {
 		"type": "ww-hs-form",
 		"data": {}
